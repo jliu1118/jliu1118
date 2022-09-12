@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jeremy Liu
-- 👀 I’m interested in Software Engineering Internships
-- 🌱 I’m currently learning Deep Learning and Autonomous Driving
+- 👀 I’m interested in Software Engineering Positions
 - 📫 Reach me at jeremyliu@berkeley.edu
 
 <!---
